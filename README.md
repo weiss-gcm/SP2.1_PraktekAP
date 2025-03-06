@@ -1,6 +1,6 @@
 # Praktikum Algoritma dan Pemrograman
 ## Repository Pengumpulan Tugas Praktikum Algoritma dan Pemrograman
-NAMA: DARMA ADHYAKSA PUTRA
+NAMA: Darma Adhyaksa Putra
 NIM: 1124102188
 
 ## Repository Alternatif
